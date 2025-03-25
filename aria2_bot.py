@@ -23,7 +23,7 @@ aria2 = aria2p.API(
 )
 
 # Telegram Bot Token
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "7565594863:AAF2uTPZOdMA4__i8fvZbksCjgdp4XQ0_xU"
 
 # Logging
 logging.basicConfig(format="%(asctime)s - %(levelname)s - %(message)s", level=logging.INFO)
